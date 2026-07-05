@@ -1,10 +1,5 @@
 # Trading Rules
 
-- Protect capital first.
-- Maximum risk per trade: 2%.
-- Every trade requires:
-  - Entry
-  - Stop Loss
-  - Target
-  - Risk/Reward
-- If conviction is insufficient, do not trade.
+- Max risk per trade: 2%
+- Define entry, stop and target.
+- No trade without conviction.

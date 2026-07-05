@@ -1,9 +1,13 @@
 # MarketPilot AI
 
-AI-powered investment intelligence platform for disciplined swing trading.
+Status: Sprint 1
+Version: 0.0.5
 
-## Status
-Sprint 1 - Foundation
+MarketPilot AI is an explainable investment intelligence platform focused on disciplined swing trading.
 
-## Vision
-Build an explainable AI assistant that helps investors make disciplined, data-driven decisions.
+## Roadmap
+- Foundation
+- Architecture
+- MVP
+- Paper Trading
+- Supervised Automation
