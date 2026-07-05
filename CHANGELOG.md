@@ -1,4 +1,4 @@
 # Changelog
 
-## v0.1.0 Foundation
-Initial foundation release.
+## v0.1.1
+Foundation structure completed.

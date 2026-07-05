@@ -1,2 +1,2 @@
 # Contributing
-Use branches and PRs.
+Use feature branches and pull requests.
