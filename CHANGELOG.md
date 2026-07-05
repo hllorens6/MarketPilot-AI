@@ -1,11 +1,4 @@
 # Changelog
 
-## v0.0.5
-- Initial project structure
-- Principles
-- Vision
-- Roadmap
-- Architecture overview
-- Trading rules
-- Risk engine draft
-- Opportunity score draft
+## v0.1.0 Foundation
+Initial foundation release.

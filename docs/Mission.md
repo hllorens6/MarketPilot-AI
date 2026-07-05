@@ -1,3 +1,2 @@
 # Mission
-
-Help investors make consistent, disciplined, data-driven decisions.
+Help investors make disciplined decisions.
